@@ -1,1 +1,1 @@
-from .emotion_detection import emotion_detector as emotion_detector
+# noqa: N999from .emotion_detection import emotion_detector as emotion_detector
